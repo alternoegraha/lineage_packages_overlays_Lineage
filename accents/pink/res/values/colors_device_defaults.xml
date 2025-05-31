@@ -16,5 +16,5 @@
 -->
 <resources>
     <color name="accent_device_default_light">#E6125E</color>
-    <color name="accent_device_default_dark">#E6125E</color>
+    <color name="accent_device_default_dark">#F38DAF</color>
 </resources>
