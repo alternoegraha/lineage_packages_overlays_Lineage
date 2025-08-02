@@ -22,25 +22,56 @@
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
 
+    <!-- Inter -->
     <family customizationType="new-named-family" name="inter">
-        <font weight="100" style="normal">Inter-Thin.ttf</font>
-        <font weight="100" style="italic">Inter-ThinItalic.ttf</font>
-        <font weight="200" style="normal">Inter-ExtraLight.ttf</font>
-        <font weight="200" style="italic">Inter-ExtraLightItalic.ttf</font>
-        <font weight="300" style="normal">Inter-Light.ttf</font>
-        <font weight="300" style="italic">Inter-LightItalic.ttf</font>
-        <font weight="400" style="normal">Inter-Regular.ttf</font>
-        <font weight="400" style="italic">Inter-Italic.ttf</font>
-        <font weight="500" style="normal">Inter-Medium.ttf</font>
-        <font weight="500" style="italic">Inter-MediumItalic.ttf</font>
-        <font weight="600" style="normal">Inter-SemiBold.ttf</font>
-        <font weight="600" style="italic">Inter-SemiBoldItalic.ttf</font>
-        <font weight="700" style="normal">Inter-Bold.ttf</font>
-        <font weight="700" style="italic">Inter-BoldItalic.ttf</font>
-        <font weight="800" style="normal">Inter-ExtraBold.ttf</font>
-        <font weight="800" style="italic">Inter-ExtraBoldItalic.ttf</font>
-        <font weight="900" style="normal">Inter-Black.ttf</font>
-        <font weight="900" style="italic">Inter-BlackItalic.ttf</font>
+        <font weight="100" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="100"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="100" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="100"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="300" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="300"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="300" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="300"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="400" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="400"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="400" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="400"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="500" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="500"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="500" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="500"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="700" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="700"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="700" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="700"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="900" style="normal">InterVariable.ttf
+            <axis tag="wght" stylevalue="900"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
+        <font weight="900" style="italic">InterVariable-Italic.ttf
+            <axis tag="wght" stylevalue="900"/>
+            <axis tag="opsz" stylevalue="14"/>
+        </font>
     </family>
     <alias name="inter-thin" to="inter" weight="100" />
     <alias name="inter-light" to="inter" weight="300" />
