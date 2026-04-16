@@ -393,6 +393,20 @@
         </font>
     </family>
 
+    <family customizationType="new-named-family" name="google-sans-clock">
+        <font>GoogleSansFlex-Regular.ttf</font>
+    </family>
+
+    <family-list customizationType="new-named-family" name="google-sans-flex-clock">
+        <family>
+            <font>GoogleSansFlex-Regular.ttf</font>
+        </family>
+        <family>
+            <font>GoogleSansFlex-Regular.ttf</font>
+        </family>
+    </family-list>
+
+
     <family customizationType="new-named-family" name="google-sans-bold">
         <font weight="700" style="normal">GoogleSansFlex-Regular.ttf
             <axis tag="GRAD" stylevalue="0"/>
